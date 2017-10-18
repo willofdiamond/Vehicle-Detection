@@ -34,17 +34,6 @@ The goals / steps of this project are the following:
 7. Draw boxes on the detected vehicles
 6. Processing the videos
 
-
-
-First I had read the car and non car images. Sample of the car and non car images is shown in the below figure ![alt text][image1].
-
-Later Hog features, spatial and histogram features are extracted from the images and stored in a features array. The features array is further divided in to training and test sets. The training set is using to train a Support Vector classifier while test set is used to check the model performance. For my project with all the Hog, spatial and histogram features I am achieving a test accuracy of 99.03%.  The hog images are displayed below ![alt text][image2].
-
-
-
-
-
-
 ### Histogram of Oriented Gradients (HOG)
 
 #### 1. Explain how (and identify where in your code) you extracted HOG features from the training images.
