@@ -18,7 +18,7 @@ The goals / steps of this project are the following:
 [image2]: https://github.com/willofdiamond/Vehicle-Detection/blob/master/Hogimages.png
 [image3]: https://github.com/willofdiamond/Vehicle-Detection/blob/master/slidingwindows.png
 [image4]: https://github.com/willofdiamond/Vehicle-Detection/blob/master/averagewindows.png
-[link to video]: https://github.com/willofdiamond/Vehicle-Detection/blob/master/project_video_result%20.mp4 "Video"
+[link to video]:https://github.com/willofdiamond/Vehicle-Detection/blob/master/projectVideoResult.mp4 "Video"
 
 
 
