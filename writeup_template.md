@@ -1,6 +1,6 @@
 ## Writeup Template
 
-
+I would like to thank Parilo for this project
 **Vehicle Detection Project**
 
 The goals / steps of this project are the following:
@@ -89,3 +89,7 @@ Here's a [link to video]
 The problems that I faced while implementing this project were improving the classification accuracy of the classifier by changing different parameters and reducing the number of false positives.
 
 The pipeline may fail when the lighting conditions are bad. Distinction between the nearby cars  and cars in the other lane has to be worked on. Training the classifier with wide variety of lighting conditions , resolution and using Deep learning algorithms will result in much accurate result.
+
+
+## Reference
+https://github.com/parilo/carnd-vehicle-detection-and-tracking
